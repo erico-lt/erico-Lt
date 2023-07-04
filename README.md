@@ -18,6 +18,4 @@
 <img style= "display: inline" align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br/>
 
-<div> 
-<p style="font-family:cursive;font-size:18px"> Em em uma joranda para me tornar um grande desenvolvedor!</p>
-</div>
+### Em em uma joranda para me tornar um grande desenvolvedor!
