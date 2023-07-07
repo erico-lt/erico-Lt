@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erico-santana-6267b419b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![Érico GitHub stats](https://github-readme-stats.vercel.app/api?username=erico-Lt&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=erico-lt&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erico-Lt&layout=compact)
 
 ### Tecnologias de estudo
